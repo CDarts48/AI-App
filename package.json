@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@langchain/openai": "^0.0.28",
     "dotenv": "^16.4.5",
-    "inquirer": "^8.2.4",
+    "inquirer": "^8.2.6",
     "langchain": "^0.1.36"
   }
 }
